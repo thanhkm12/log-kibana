@@ -1,0 +1,1 @@
+{ "analyze_wildcard": true, "minimum_should_match":"100%", "allow_leading_wildcard": true, "fields": ["uri", "requests.arg_mac_addr"]}
